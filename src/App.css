@@ -147,15 +147,15 @@ css
 
 .stock_profit_loss_title{
   font-size: 1.5rem;
-  padding-top: 2%;
+  padding-top: 1%;
 }
 
 .stock_profit_loss_initialPrice , .stock_profit_loss_Quantity_of_Stocks , .stock_profit_loss_Current_Price{
-  padding-top: 2%;
+  padding-top: 0;
 }
 
 .stock_profit_loss_button , .stock_profit_loss_displaymsg{
-  padding-top: 3%;
+  padding-top: 2%;
 }
 
 .stock_profit_loss_button > .MuiButton-contained {
